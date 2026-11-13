@@ -9,6 +9,8 @@
     "0": { "zh": "量子威胁：为什么今天的密码会失效", "en": "The Quantum Threat" },
     "1": { "zh": "量子计算地基：叠加、测量与纠缠", "en": "Quantum Foundations" },
     "2": { "zh": "量子攻击武器：Grover 与 Shor", "en": "Quantum Attacks" },
-    "3": { "zh": "后量子密码 PQC：量子时代的防弹衣", "en": "Post-Quantum Cryptography" }
+    "3": { "zh": "后量子密码 PQC：量子时代的防弹衣", "en": "Post-Quantum Cryptography" },
+    "4": { "zh": "量子密钥分发 QKD：天生防窃听", "en": "Quantum Key Distribution" },
+    "5": { "zh": "综合实战：搭建抗量子迷你体系", "en": "Hands-on: A Quantum-Robust Mini System" }
   }
 }

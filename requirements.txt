@@ -1,0 +1,8 @@
+# 量子密码学在线交互书 —— Python 运行示例依赖
+# 安装：python3 -m venv .venv-qc && ./.venv-qc/bin/pip install -r requirements.txt
+# 示例运行：./.venv-qc/bin/python3 examples/<章节>/main.py
+#
+# qiskit 2.x 需 Python 3.9+；qiskit-aer 提供本地模拟器（AerSimulator），用于测量采样。
+
+qiskit>=2.0
+qiskit-aer>=0.15

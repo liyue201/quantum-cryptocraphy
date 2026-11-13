@@ -1,0 +1,14 @@
+{
+  "title_zh": "量子密码学",
+  "title_en": "Quantum Cryptography",
+  "subtitle_zh": "在线交互书",
+  "subtitle_en": "Interactive Book",
+  "github": "https://github.com/liyue201/quantum-cryptography",
+  "parts": {
+    "-1": { "zh": "前言", "en": "Preface" },
+    "0": { "zh": "量子威胁：为什么今天的密码会失效", "en": "The Quantum Threat" },
+    "1": { "zh": "量子计算地基：叠加、测量与纠缠", "en": "Quantum Foundations" },
+    "2": { "zh": "量子攻击武器：Grover 与 Shor", "en": "Quantum Attacks" },
+    "3": { "zh": "后量子密码 PQC：量子时代的防弹衣", "en": "Post-Quantum Cryptography" }
+  }
+}

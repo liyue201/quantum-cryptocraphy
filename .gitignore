@@ -1,0 +1,23 @@
+# Build artifacts
+node_modules/
+dist/
+
+# Go
+*.test
+*.out
+bin/
+
+# 示例源码的编译产物（examples/<id>/ 下无扩展名的可执行文件）
+# 忽略所有二级文件，再仅放行源码/文档类扩展名
+examples/*/*
+!examples/*/*.go
+!examples/*/*.md
+!examples/*/*.json
+
+# Editors
+.DS_Store
+.idea/
+.vscode/
+
+# Misc
+*.log

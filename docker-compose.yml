@@ -8,7 +8,7 @@ services:
     image: qcc:latest
     container_name: qcc-web
     ports:
-      - "8004:8080"
+      - "8080:8080"
     restart: unless-stopped
     environment:
       # exec=进程内沙箱（MVP，适合教学演示）；生产可改 docker（需额外配置数据卷与 Docker 套接字，谨慎）

@@ -10,7 +10,7 @@ bin/
 # 示例源码的编译产物（examples/<id>/ 下无扩展名的可执行文件）
 # 忽略所有二级文件，再仅放行源码/文档类扩展名
 examples/*/*
-!examples/*/*.go
+!examples/*/*.py
 !examples/*/*.md
 !examples/*/*.json
 
